@@ -1,0 +1,16 @@
+
+
+- Création de l'application
+slc loopback
+
+- Ajout d'un model
+slc loopback:model
+
+- Ajout d'une relation
+slc loopback:relation
+
+- Explorer
+=> List All
+=> Create
+=> List All
+=> list all avec un filter
