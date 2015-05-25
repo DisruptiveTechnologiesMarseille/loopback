@@ -1,4 +1,4 @@
-Angular Rocks
+Loopback
 ===============
 
-Présentation pour le Meetup du 15 Avril - Disruptive-technologies-in-Planet-Marseille
+Présentation pour le Meetup du 25 Mai - Disruptive-technologies-in-Planet-Marseille
