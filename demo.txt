@@ -1,4 +1,4 @@
-
+tmux
 
 - Création de l'application
 slc loopback
@@ -14,3 +14,7 @@ slc loopback:relation
 => Create
 => List All
 => list all avec un filter
+
+
+- Strongloop dashboard
+slc arc
